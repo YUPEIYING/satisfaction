@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExtentComponent implements OnInit {
 
-  thank = '感謝您協助我們改善服務';
-  Ethank = 'Thank you for your feedback';
+  thank = '感 謝 您 協 助 我 們 改 善 服 務 !';
+  Ethank = 'Thank you for your feedback !';
 
   constructor() 
   { 
