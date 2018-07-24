@@ -1,0 +1,9 @@
+h3
+{
+  z-index: 2;
+  font-size: 2em;
+  padding: 0; 
+  position: static;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+}
