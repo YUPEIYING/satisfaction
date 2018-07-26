@@ -1,4 +1,4 @@
-export class Extent {
+export interface Extent {
   id: number;
   Snumber: number;
 }
